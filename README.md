@@ -1,14 +1,11 @@
-#musicrichard
+#richardmusic
 Cloud/Local music player
 
 
 
 # Change Log
 ## 2.6
-- Base line created
-
-## 1.6
-- change cloud API
+- Base line refactor
 
 
 ## 7.23
