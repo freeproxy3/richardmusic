@@ -1,7 +1,7 @@
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  Gradle startup script for Windows  Test  branch MyTest2
+@rem  Gradle startup script for Windows  Test  branch MyTest2  again
 @rem
 @rem ##########################################################################
 
